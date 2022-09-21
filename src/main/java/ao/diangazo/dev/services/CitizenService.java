@@ -1,4 +1,4 @@
-package ao.diangazo.dev.service;
+package ao.diangazo.dev.services;
 
 import java.util.Optional;
 

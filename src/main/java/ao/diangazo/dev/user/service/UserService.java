@@ -1,6 +1,6 @@
 package ao.diangazo.dev.user.service;
 
-import ao.diangazo.dev.user.dtos.UserDto;
+import ao.diangazo.dev.dtos.UserDto;
 
 public interface UserService {
 	
